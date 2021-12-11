@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\UEProject\\TiTanRise3\\Source\\TiTanRise3\\TiTanRise3.Build.cs",
+		"G:\\UEProject\\TiTanRise3\\Source\\TiTanRise3.Target.cs",
+		"G:\\UEProject\\TiTanRise3\\Source\\TiTanRise3Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

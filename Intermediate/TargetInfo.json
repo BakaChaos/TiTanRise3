@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TiTanRise3",
+			"Path": "G:\\UEProject\\TiTanRise3\\Source\\TiTanRise3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TiTanRise3Editor",
+			"Path": "G:\\UEProject\\TiTanRise3\\Source\\TiTanRise3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
